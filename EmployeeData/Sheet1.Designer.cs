@@ -20,6 +20,8 @@ namespace EmployeeData {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0")]
         private global::System.Object missing = global::System.Type.Missing;
         
+        internal System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
+        
         /// 
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Never)]
@@ -136,6 +138,10 @@ namespace EmployeeData {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Tools.Office.ProgrammingModel.dll", "14.0.0.0")]
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Never)]
         private void InitializeComponents() {
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            // 
+            // Sheet1
+            // 
         }
         
         /// 
